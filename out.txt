@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "D:\workspace\CodeJam\Itinerary.py", line 55, in <module>
+    getInputs()
+  File "D:\workspace\CodeJam\Itinerary.py", line 40, in getInputs
+    n,q=a[0],a[1]
+IndexError: list index out of range
